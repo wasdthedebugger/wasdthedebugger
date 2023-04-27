@@ -1,10 +1,6 @@
 <h3 align="center">I am Nikas Ghimire</h3>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="center">
-<img src="https://nikas.com.np/assets/images/lovephp.png" style="height: 300px;"> 
-</p>
-
 - 🌱 I’m currently learning **SvelteKit**
 
 - 📝 I write articles on [https://blog.nikas.com.np](https://blog.nikas.com.np)
