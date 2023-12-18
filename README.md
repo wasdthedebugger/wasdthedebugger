@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/wasdthedebugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wasdthedebugger" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wasdthedebugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasdthedebugger" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikasghimire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasdthedebugger" height="30" width="40" /></a>
 <a href="https://fb.com/reader.nikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reader.nikas" height="30" width="40" /></a>
 <a href="https://hashnode.com/@thedebugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@thedebugger" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/wasdthedebugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wasdthedebugger" height="30" width="40" /></a>
