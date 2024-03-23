@@ -1,5 +1,6 @@
 <h3 align="center">I am Nikas Ghimire</h3>
 <h3 align="center">A passionate developer from Nepal</h3>
+<h2 align="center">PHP is the best, no cap!</h2>
 
 - 🌱 I’m currently learning **SvelteKit**
 
